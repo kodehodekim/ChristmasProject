@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-image: url("./assets/badsanta.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  border-top: solid rgb(220, 208, 208) 30px;
+  border-bottom: solid rgb(220, 208, 208) 30px;
+}

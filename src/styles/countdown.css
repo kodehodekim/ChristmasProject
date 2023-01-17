@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+
+.countdownh1 {
+  position: absolute;
+  font-size: 40px;
+  top: 25rem;
+  left: 34rem;
+  text-shadow: 2px 2px 0px black;
+}
+
+.CountdownTimer {
+  position: absolute;
+  top: 29rem;
+  left: 27rem;
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 2px 2px 0px black;
+}

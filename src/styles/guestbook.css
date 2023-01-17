@@ -1,0 +1,36 @@
+.GB {
+  position: absolute;
+  top: 22rem;
+  left: 5rem;
+  list-style-type: none;
+}
+
+ul {
+  list-style: none;
+  font-size: 28px;
+  margin: 10px;
+  text-shadow: 2px 2px 2px black;
+  padding: 2px;
+  text-align: left;
+  background-color: rgba(214, 214, 214, 0.696);
+  border: 0px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.timestamp {
+  font-size: 18px;
+  text-shadow: 2px 2px 2px black;
+}
+
+.guestmessage {
+  margin-bottom: 10px;
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 4px;
+  resize: vertical;
+}

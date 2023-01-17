@@ -1,0 +1,19 @@
+header {
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  top: 12rem;
+  left: 10rem;
+}
+
+.HeaderH1 {
+  font-size: 80px;
+  text-shadow: 4px 2px 0px black;
+}
+
+.HeaderH3 {
+  font-size: 24px;
+  text-shadow: 2px 2px 0px black;
+  position: absolute;
+  left: 25rem;
+}
