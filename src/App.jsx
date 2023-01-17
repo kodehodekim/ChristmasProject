@@ -1,5 +1,4 @@
 // Imports
-import { useState } from "react";
 
 // Components
 import Header from "./components/header.jsx";
